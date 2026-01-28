@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne4 4
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: 51462985895390990, guid: a79a271ee9d79884da57d6dc1f7b4eaf, type: 3}
+  hikayeMetni: "Bu kokuyu kald\u0131rabilecek kadar a\xE7 de\u011Filsin \r\n"
+  tekSecenekVar: 0
+  secenek1Metni: Bir yere otur
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: Bir yer bulup oturuyorsun
+  secenek1Sonucu: {fileID: 11400000, guid: 750da28d99a3a464592d35e3b6421ac6, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  secenek2Metni: Duvara yaslan
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Duvara yaslan\u0131yorsun"
+  secenek2Sonucu: {fileID: 11400000, guid: 750da28d99a3a464592d35e3b6421ac6, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 1
+  s2Merhamet: 0
+  s2Itaat: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 11400000, guid: 136e69fa568d76144b6c6683132e94ba, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  buBirOlumSahnesiMi: 0

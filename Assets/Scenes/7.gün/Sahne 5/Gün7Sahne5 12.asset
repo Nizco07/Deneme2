@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: "G\xFCn7Sahne5 12"
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  buSahnedeOlenKisi: 
+  arkaplanGorseli: {fileID: 51462985895390990, guid: 38ab82b23d6fee94893eac71f155e64d, type: 3}
+  hikayeMetni: "O pisliklerden \xE7ok s\u0131k\u0131ld\u0131m size kat\u0131lmak
+    istiyorum \r\n"
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 0}
+  gerekliDigerSahneler: []
+  tekSecenekVar: 0
+  secenek1Metni: "Kat\u0131lmas\u0131n\u0131 kabul et"
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: "Khan'\u0131 da yan\u0131na al\u0131yorsun"
+  secenek1Sonucu: {fileID: 11400000, guid: 767b23e8a12e69e42a92f55c861bb3ac, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: 'Reddet '
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Khan'\u0131 yan\u0131na alm\u0131yorsun"
+  secenek2Sonucu: {fileID: 11400000, guid: 53bb2e0fdcae8ef419830265077a676c, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 1
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 11400000, guid: 53bb2e0fdcae8ef419830265077a676c, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0

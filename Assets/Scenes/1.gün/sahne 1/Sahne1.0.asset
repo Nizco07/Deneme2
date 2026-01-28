@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne1.0
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: -8581677713307463666, guid: 084da938a1ec6b04f86ee9aa2b6894fe, type: 3}
+  hikayeMetni: "''\u0130\u015Fledi\u011Fi vah\u015Fice cinayet sonras\u0131nda yakalanan
+    Leo COFIELD'\u0131n mahkemesi az \xF6nce ba\u015Flad\u0131."
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 0}
+  gerekliDigerSahneler: []
+  tekSecenekVar: 1
+  secenek1Metni: Devam
+  secenek1Resmi: {fileID: -4437474987275935889, guid: f8522e79c50d2e941a0e00f09df2eb1b, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: ...
+  secenek1Sonucu: {fileID: 11400000, guid: efe15da16b22203408876a9a9abd6e91, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: "ka\xE7"
+  secenek2Resmi: {fileID: 0}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "ka\xE7"
+  secenek2Sonucu: {fileID: 11400000, guid: efe15da16b22203408876a9a9abd6e91, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 0}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 0}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0

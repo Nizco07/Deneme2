@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne5 1
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: 51462985895390990, guid: 3f42f44af7579ca4ea6a56e2efce27c6, type: 3}
+  hikayeMetni: "G\xFCzeller g\xFCzeli sar\u0131\u015F\u0131n bir kad\u0131n sana
+    bak\u0131yor. "
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 11400000, guid: 0ab2168ddfafc6d41ab1b99cc9b1cae9, type: 2}
+  gerekliDigerSahneler:
+  - {fileID: 11400000, guid: 35d7d593b05712b409e64378395a33f2, type: 2}
+  tekSecenekVar: 0
+  secenek1Metni: Merhaba ben Leo.
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: "Kendini tan\u0131t\u0131yorsun"
+  secenek1Sonucu: {fileID: 11400000, guid: 1a57c5dd1fe8be64f84276f62a4cf654, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: Siz kimsiniz?
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Cevab\u0131n\u0131 bildi\u011Fin bir soruyu soruyorsun"
+  secenek2Sonucu: {fileID: 11400000, guid: 1a57c5dd1fe8be64f84276f62a4cf654, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 11400000, guid: 136e69fa568d76144b6c6683132e94ba, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0

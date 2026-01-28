@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: "G\xFCn5Sahne4 5"
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: 51462985895390990, guid: 38ab82b23d6fee94893eac71f155e64d, type: 3}
+  hikayeMetni: "Romanov gardiyan \xF6ld\xFCr\xFCp isyan ba\u015Flatarak hapishanenin
+    en korkulan adam\u0131 olmu\u015F "
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 0}
+  gerekliDigerSahneler: []
+  tekSecenekVar: 1
+  secenek1Metni: Devam et
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: Devam ediyorsun
+  secenek1Sonucu: {fileID: 11400000, guid: 5a7c6c1b9dfa89a4b811a49fd6a4f417, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: "Gustave'e hen\xFCz g\xFCvenme"
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Gustave'e g\xFCvenmek i\xE7in zamana ihtiyac\u0131m var"
+  secenek2Sonucu: {fileID: 11400000, guid: 8c5649c06ccd1d34982779c898894558, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 1
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 11400000, guid: 136e69fa568d76144b6c6683132e94ba, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0

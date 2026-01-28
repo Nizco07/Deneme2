@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne1.2
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: -8581677713307463666, guid: 084da938a1ec6b04f86ee9aa2b6894fe, type: 3}
+  hikayeMetni: "Hakimin karar\u0131 \xE7oktan belliydi. B\xF6yle bir vah\u015Fete
+    idamdan ba\u015Fka  bir bedel bi\xE7ilemezdi."
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 0}
+  gerekliDigerSahneler: []
+  tekSecenekVar: 1
+  secenek1Metni: ....
+  secenek1Resmi: {fileID: -5669589053063969794, guid: a3b4352975e902548bce7ea4b78a39e2, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: "Ben su\xE7lu de\u011Filim!"
+  secenek1Sonucu: {fileID: 11400000, guid: 2e5b02ae86acfa3409a84783ae62b539, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: 'Sessizce otur '
+  secenek2Resmi: {fileID: -8534116816855687103, guid: 9099a30630c844840a0fdb09c3cbd563, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Sessizce hapishaneye ula\u015Fmay\u0131 bekliyorsun"
+  secenek2Sonucu: {fileID: 11400000, guid: 2e5b02ae86acfa3409a84783ae62b539, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 0}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 0}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0

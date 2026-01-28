@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne5 3
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: 51462985895390990, guid: 3f42f44af7579ca4ea6a56e2efce27c6, type: 3}
+  hikayeMetni: "Revirden ayr\u0131lma vaktin geldi"
+  alternatifVersiyon: {fileID: 11400000, guid: c5ae72e5d87bd4d4faa77193d86eb18c, type: 2}
+  gerekliDigerSahneler:
+  - {fileID: 11400000, guid: 69d9a9fa6805bf24aa915e53d0bda02f, type: 2}
+  tekSecenekVar: 1
+  secenek1Metni: "Revirden ayr\u0131l"
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: "Bah\xE7eye do\u011Fru gidiyorsun"
+  secenek1Sonucu: {fileID: 11400000, guid: 5a10aa02d7f68f942af89c0d70528968, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 1
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  secenek2Metni: "Yard\u0131m etmem gereken biri vard\u0131"
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "Doktor'un tuhaf bak\u0131\u015Flar\u0131n\u0131 yakal\u0131yorsun"
+  secenek2Sonucu: {fileID: 11400000}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 1
+  s2Itaat: 0
+  gerekliEsyaIsmi: 
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: 
+  secenek3Sonucu: {fileID: 11400000, guid: 136e69fa568d76144b6c6683132e94ba, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  buBirOlumSahnesiMi: 0

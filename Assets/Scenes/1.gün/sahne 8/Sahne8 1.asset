@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne8 1
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  sahneIsmi: 
+  arkaplanGorseli: {fileID: 51462985895390990, guid: 3f42f44af7579ca4ea6a56e2efce27c6, type: 3}
+  hikayeMetni: "\u0130nce sesli kad\u0131n:''Demek sonunda uyanabildiniz bay Cofield.''"
+  gerekliSahneIsmi: abc
+  alternatifVersiyon: {fileID: 11400000, guid: 0ab2168ddfafc6d41ab1b99cc9b1cae9, type: 2}
+  gerekliDigerSahneler:
+  - {fileID: 11400000, guid: 0569c21d1bf1cd346bdf421f372f46ca, type: 2}
+  buBirOlumSahnesiMi: 0
+  buSahnedeOlenKisi: 
+  tanisilanKarakter: 
+  eklenecekBilgiNotu: 
+  tekSecenekVar: 1
+  secenek1Metni: "Do\u011Frul"
+  secenek1Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  secenek1SonucYazisi: "Nerde oldu\u011Funu anlayarak yata\u011F\u0131ndan do\u011Fruluyorsun"
+  s1KazanilacakEsya: 
+  secenek1Sonucu: {fileID: 11400000, guid: 69d9a9fa6805bf24aa915e53d0bda02f, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: "G\xF6zlerini kapat"
+  secenek2Resmi: {fileID: -6167157660931830827, guid: d7e0b86835408e949a16e025867407ab, type: 3}
+  secenek2SonucYazisi: "Dinlenmeye \xE7al\u0131\u015F\u0131yorsun"
+  s2KazanilacakEsya: 
+  secenek2Sonucu: {fileID: 11400000, guid: 264cd41c99f94254c9bdb514d77b3302, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  secenek3Metni: 
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  secenek3SonucYazisi: 
+  s3KazanilacakEsya: 
+  secenek3Sonucu: {fileID: 11400000, guid: 136e69fa568d76144b6c6683132e94ba, type: 2}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f594efcb144e04ba798c3e85add8db, type: 3}
+  m_Name: Sahne2.3
+  m_EditorClassIdentifier: Assembly-CSharp::SahneVerisi
+  arkaplanGorseli: {fileID: 372259705742292670, guid: 73873b76c8d2c184195d304369dee851, type: 3}
+  hikayeMetni: "Yabanc\u0131 sana elini uzat\u0131yor ''Ben Michael, DUNN''"
+  tanisilanKarakter: Michael Dunn
+  eklenecekBilgiNotu: 
+  alternatifVersiyon: {fileID: 0}
+  gerekliDigerSahneler: []
+  tekSecenekVar: 0
+  secenek1Metni: Ben Leo COFIELD
+  secenek1Resmi: {fileID: 51462985895390990, guid: 779ecfb78f790ea4ca76c25e16c7339c, type: 3}
+  s1KazanilacakEsya: 
+  secenek1SonucYazisi: "El s\u0131k\u0131\u015F\u0131yorsunuz"
+  secenek1Sonucu: {fileID: 11400000, guid: 697cb157012fbb5428f4dba6dcaba5e4, type: 2}
+  s1EnerjiEtkisi: 0
+  s1Zeka: 0
+  s1Cesaret: 0
+  s1Merhamet: 0
+  s1Itaat: 0
+  s1IliskiKarakteri: 
+  s1IliskiPuani: 0
+  secenek2Metni: Memnun oldum
+  secenek2Resmi: {fileID: -8534116816855687103, guid: 9099a30630c844840a0fdb09c3cbd563, type: 3}
+  s2KazanilacakEsya: 
+  secenek2SonucYazisi: "El s\u0131k\u0131\u015F\u0131yorsunuz"
+  secenek2Sonucu: {fileID: 11400000, guid: 697cb157012fbb5428f4dba6dcaba5e4, type: 2}
+  s2EnerjiEtkisi: 0
+  s2Zeka: 0
+  s2Cesaret: 0
+  s2Merhamet: 0
+  s2Itaat: 0
+  s2IliskiKarakteri: 
+  s2IliskiPuani: 0
+  gerekliEsyaIsmi: Tornavida
+  secenek3Metni: "Tuvaletin vidalar\u0131n\u0131 s\xF6k"
+  secenek3Resmi: {fileID: 7622427225544344452, guid: fb0c86587eb924848841d9015ce7de64, type: 3}
+  s3KazanilacakEsya: 
+  secenek3SonucYazisi: "Yorgun d\xFC\u015Ft\xFCn ama vidalar\u0131 s\xF6kmeyi ba\u015Fard\u0131n"
+  secenek3Sonucu: {fileID: 0}
+  s3EnerjiEtkisi: 0
+  s3Zeka: 0
+  s3Cesaret: 0
+  s3Merhamet: 0
+  s3Itaat: 0
+  s3IliskiKarakteri: 
+  s3IliskiPuani: 0
+  buBirOlumSahnesiMi: 0
